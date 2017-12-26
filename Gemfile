@@ -26,6 +26,11 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 #Devise for user authentication
 gem 'devise'
 
+# Bootstrap for styling
+gem 'bootstrap', '~> 4.0.0.beta2.1'
+gem 'sprockets-rails'
+
+gem 'jquery-rails'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
